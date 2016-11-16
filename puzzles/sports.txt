@@ -1,0 +1,21 @@
+Sports
+soccer
+baseball
+basketball
+football
+water polo
+gymnastics
+swimming
+track
+tennis
+free running
+synchronized swimming
+golf
+archery
+badminton
+volleyball
+boxing
+kayking
+cycling
+diving
+hockey

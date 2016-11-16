@@ -1,0 +1,22 @@
+Holidays
+christmas
+birthday
+valentines day
+st. patricks day
+easter
+thanksgiving
+new years
+columbus day
+martin luther king jr day
+presidents' day
+fourth of july
+labor day
+veterans day
+independence day
+memorial day
+halloween
+mother's day
+father's day
+diwali
+flag day
+
